@@ -1,5 +1,7 @@
 # Sandy Auto
 
+![Image of Sandy Holding A Snowboard](sandy.webp)
+
 Sandy Auto is a cross-platform automation framework that embeds AI agents directly into your devices. It gives Gemini, Mistral, Grok, or Claude the ability to see your screen, interact with applications, and carry out complex tasks on your behalf—without writing a single line of script. The bots run with their own persistent context, manage linked accounts, and operate autonomously while you focus on what matters.
 
 ---
